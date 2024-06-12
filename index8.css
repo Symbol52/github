@@ -1,0 +1,17 @@
+:root{
+    --background-color-primary:rgb(237,)
+}
+*{
+margin: 0;
+box-sizing: border-box;
+
+
+}
+
+.main-container{
+    background-color: aqua;
+    width: 200px;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+}
